@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tidalhss-star.github.io/bp-sf-t3-1779642675702-364//sitemap.xml
+Sitemap: https://sf-t3-1779642675702-364.maphoshirts.xyz/sitemap.xml
