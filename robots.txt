@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://sf-t3-1779642675702-364.maphoshirts.xyz/sitemap.xml
+Sitemap: https://sf-t3-1779642675702-364.maphoshirts.xyz/sitemap-pages.xml
